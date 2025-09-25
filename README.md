@@ -20,7 +20,7 @@ Comandos para trabajar con las Librerias
 
 1.	Comando WRKLIB: El comando permite trabajar con las librerías mostrando las librerias y sus opciones para su gestión.
    
-	![WRKLIB en PUB400](1.WRKLIB.png)
+	![WRKLIB en PUB400](IMA1.png)
    
 1.2 WRKLIB *ALL: Este comando muestra todas las librerías del sistema y con las opciones para su gestion.
 
