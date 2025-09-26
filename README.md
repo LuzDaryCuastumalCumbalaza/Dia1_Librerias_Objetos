@@ -18,12 +18,14 @@ Comprender la estructura de librerías y objetos en IBM i, explorarlos y documen
 
 Comandos para trabajar con las Librerias
 
-1.	Comando WRKLIB: El comando permite trabajar con las librerías mostrando las librerias y sus opciones para su gestión.
+## 1.	WRKLIB
+		Este comando permite trabajar con las librerías mostrando las librerias y sus opciones para su gestión.
    
-	![WRKLIB en PUB400](IMA1.png)
+		![WRKLIB en PUB400](IMA1.png)
    
-1.2 WRKLIB *ALL: Este comando muestra todas las librerías del sistema y con las opciones para su gestion.
-
+## 1.2 WRKLIB *ALL
+		Este comando muestra todas las librerías del sistema y con las opciones para su gestion.
+		![WRKLIB en PUB400](2. WRKLIB ALL.png)
  
  
  
