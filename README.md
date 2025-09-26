@@ -25,8 +25,7 @@ Comandos para trabajar con las Librerias
    
 ## 1.2 WRKLIB *ALL
 		Este comando muestra todas las librerías del sistema y con las opciones para su gestion.
-		![WRKLIB en PUB400](2_WRKLIB_ALL.png)
- 
+		
  
  
 1.3 WRKLIB (QGPL): Este comando muestra la librería específica QGPL y con las opciones para su gestión
