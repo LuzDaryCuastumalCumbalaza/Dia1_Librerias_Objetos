@@ -25,7 +25,7 @@ Comandos para trabajar con las Librerias
    
 ## 1.2 WRKLIB *ALL
 		Este comando muestra todas las librerías del sistema y con las opciones para su gestion.
-		![WRKLIB en PUB400](2. WRKLIB ALL.png)
+		![WRKLIB en PUB400](2_WRKLIB _ALL.png)
  
  
  
